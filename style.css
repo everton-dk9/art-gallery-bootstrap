@@ -1,0 +1,17 @@
+.subtitle {
+  font-size: 1em;
+}
+
+.nav {
+  list-style: none;
+}
+
+.nav a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+.sfaf{
+  font-size: 1px;
+}
